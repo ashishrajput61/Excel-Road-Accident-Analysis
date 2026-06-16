@@ -1,5 +1,6 @@
 🚦 Road Accident Data Analysis Project
 📌 Project Overview
+<img width="786" height="553" alt="Road Accident Analysis Dashboard" src="https://github.com/user-attachments/assets/e7cd233c-37ba-4902-a61d-42421534f815" />
 
 This project focuses on analyzing road accident data to identify key patterns, trends, and risk factors that contribute to accidents. Using data analysis techniques and visualizations, the project aims to provide actionable insights that can help improve road safety and decision-making.
 
